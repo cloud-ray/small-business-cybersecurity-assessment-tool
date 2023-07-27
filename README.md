@@ -1,6 +1,8 @@
 # Small Business Cybersecurity Assessment Tool
+<br>
 
-![Cybersecurity Assessment](link-to-image)
+![[[Cybersecurity Assessment Home](https://github.com/cybersavvy0/small-business-cybersecurity-assessment-tool/blob/f7bd38e46860be510876d45cfb5dcdcc515b89b1/assessment-home.jpg)]](https://github.com/cybersavvy0/small-business-cybersecurity-assessment-tool/blob/f7bd38e46860be510876d45cfb5dcdcc515b89b1/assessment-home.jpg)
+<br><br>
 
 ## Overview
 
@@ -21,33 +23,41 @@ The project also includes a guide on interpreting the assessment results and pro
 - [Assessment Creation Process](#assessment-creation-process)
 - [Assessment Results](#assessment-results)
 - [Results Interpretation](#results-interpretation)
-- [Screenshots](#screenshots)
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 <br><br>
+
 ## Background
 
 As a cybersecurity analyst and auditor, I recognized the need for a simple and accessible tool that allows small businesses to assess their cybersecurity practices effectively. Leveraging my knowledge of the NIST CSF, I developed this assessment tool with one question per category to help small businesses get a general understanding of their cybersecurity strengths and areas for improvement.
 <br><br>
+
 ## Features
 
 - Self-assessment questionnaire based on the NIST CSF core functions and categories, with one question per category for streamlined assessment.
 - Scoring system to calculate the overall cybersecurity maturity score.
 - Note: The tool is strictly a self-assessment in Google Sheets and does not generate tailored recommendations.
 <br><br>
+
 ## Tools and Technologies
 
 - Google Sheets
 <br><br>
+
 ## How to Use
 
 1. Access the Small Business Cybersecurity Assessment Tool via [Google Docs](https://docs.google.com/spreadsheets/d/1TxqMqa9-W8VDfK8IWrOXqR78dre6S_UOYeDeV3d7TLw/edit?usp=sharing).
 2. Complete the self-assessment questionnaire, answering one question in every category for each core function.
 3. Review the assessment results, interpret the scores, and decide your next steps.
 <br><br>
+
 ## Assessment Creation Process
 
 The assessment tool follows the NIST CSF, highlighting one question per category for each core function, and implementing a scoring system.
+<br><br>
+
+![[[Cybersecurity Assessment Tool](https://github.com/cybersavvy0/small-business-cybersecurity-assessment-tool/blob/f7bd38e46860be510876d45cfb5dcdcc515b89b1/assessment-tool.jpg)]](https://github.com/cybersavvy0/small-business-cybersecurity-assessment-tool/blob/f7bd38e46860be510876d45cfb5dcdcc515b89b1/assessment-tool.jpg)
+<br><br>
 
 1. Step 1: Assessment Criteria
    - Add core functions and categories for assessment.
@@ -59,9 +69,14 @@ The assessment tool follows the NIST CSF, highlighting one question per category
 3. Step 3: Calculate Maturity Score
    - Develop a formula to calculate the overall cybersecurity maturity score.
 <br><br>
+
 ## Assessment Results
 
 After completing the assessment, you will find the following information on the Assessment Results page:
+<br><br>
+
+![[[Cybersecurity Assessment Results](https://github.com/cybersavvy0/small-business-cybersecurity-assessment-tool/blob/f7bd38e46860be510876d45cfb5dcdcc515b89b1/assessment-results.jpg)]](https://github.com/cybersavvy0/small-business-cybersecurity-assessment-tool/blob/f7bd38e46860be510876d45cfb5dcdcc515b89b1/assessment-results.jpg)
+<br><br>
 
 ### Your Cybersecurity Maturity Level Score
 
@@ -93,15 +108,10 @@ Individual scores for each core function, providing insights into specific areas
 4. Cyber Guidance for Small Businesses | CISA
 5. Essential Cybersecurity Tips for Small Businesses
 <br><br>
+
 ## Results Interpretation
 
 The assessment results provide an accessible overview of the small business's cybersecurity posture. The overall maturity score indicates the level of cybersecurity preparedness. Lower scores in specific areas require attention and improvement.
-<br><br>
-
-## Screenshots
-
-![Screenshot 1](link-to-screenshot1)
-![Screenshot 2](link-to-screenshot2)
 <br><br>
 
 ## Future Enhancements
