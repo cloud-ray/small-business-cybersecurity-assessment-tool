@@ -49,6 +49,8 @@ As a cybersecurity analyst and auditor, I recognized the need for a simple and a
 1. Access the Small Business Cybersecurity Assessment Tool via [Google Docs](https://docs.google.com/spreadsheets/d/1TxqMqa9-W8VDfK8IWrOXqR78dre6S_UOYeDeV3d7TLw/edit?usp=sharing).
 2. Complete the self-assessment questionnaire, answering one question in every category for each core function.
 3. Review the assessment results, interpret the scores, and decide your next steps.
+
+- Note: After completion, devise your risk mitigation plan with the [Small Business Risk Register and Matrix](https://github.com/cybersavvy0/small-business-cybersecurity-risk-register) tool.
 <br><br>
 
 ## Assessment Creation Process
@@ -96,7 +98,7 @@ Individual scores for each core function, providing insights into specific areas
 
 1. Review Core Functions and Categories
 2. Identify Gaps and Weaknesses
-3. Create a Risk Register
+3. Create a Risk Register [Access here](https://github.com/cybersavvy0/small-business-cybersecurity-risk-register)
 4. Prioritize Recommendations
 5. Align with NIST CSF Guidelines
 
@@ -118,7 +120,7 @@ The assessment results provide an accessible overview of the small business's cy
 
 In the future, I’d love to enhance the assessment tool with the following features:
 
-- Live web application using Google Cloud Functions
+- Live web application using Google Cloud Functions.
 - Integration with cybersecurity assessment frameworks.
 - Additional assessment criteria and scoring options.
 - Improved visualization of assessment results.
